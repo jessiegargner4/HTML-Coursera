@@ -26,7 +26,12 @@ a:hover, a:active
     background-color: black;
     color: green;
   }
-
+p
+  {
+    color: grey;
+    font-size: 14px;
+    width: 800px;
+  }
 div
   {
     color: grey;
@@ -66,3 +71,4 @@ h3
   {
     color: blue;
   }
+
