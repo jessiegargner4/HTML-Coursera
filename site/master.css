@@ -4,6 +4,29 @@ body
     background-color: black;
   }
 
+section li
+  {
+    list-style: none;
+  }
+
+a:link, a:visited
+  {
+    text-decoration: none;
+    background-color: grey;
+    border: 3px solid green;
+    color: black;
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 1px;
+  }
+
+a:hover, a:active
+  {
+    background-color: black;
+    color: green;
+  }
+
 div
   {
     color: grey;
